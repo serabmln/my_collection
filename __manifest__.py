@@ -2,7 +2,7 @@
     'name': 'My Collection',
     'version': '13.0.1',
     'depends': ['base'],
-    'author': 'Ridwan & Jonatan',
+    'author': 'Ridwan & Ridwan lagi & Jonatan',
     'website': 'https://www.odoo.com/',
     'summary': 'My Collection',
     'data': [
